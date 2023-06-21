@@ -1,0 +1,12 @@
+a=100
+b=100
+print(id(a))
+print(id(b))
+a=[10,20,30,40]
+b=[10,20,30,40]
+print(id(a))
+print(id(b))
+a={10,20,30,40,50}
+b={10,20,30,40,50}
+print(id(a))
+print(id(b))
